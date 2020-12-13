@@ -15,6 +15,15 @@ We can observe from figure that from epoch 6, the GAN has learned to identify th
 
 ### Epoch 1
 ![plot_000001](https://user-images.githubusercontent.com/15833382/102006410-eb52a880-3d46-11eb-8d81-f96685cb90e8.png)
+### Epoch 6
+### Epoch 16
+### Epoch 21
+### Epoch 26
+### Epoch 31
+### Epoch 36
+### Epoch 41
+### Epoch 46
+
 
 
 
