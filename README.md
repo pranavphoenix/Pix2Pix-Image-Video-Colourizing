@@ -11,7 +11,8 @@ We took 2 videos. One was a 5 min clip from ‘The Great Dictator’, a black an
 - The output of the generator was combined again using matplotlib to obtain a video and it was analyzed.
 
 # Training 
-We can observe from figure that from epoch 6, the GAN has learned to identify the sky and color it blue. As the training progresses, it learns to color grass and trees green and other outdoor cues.
+We can observe from figure that from epoch 6, the GAN has learned to identify the sky and color it blue. As the training progresses, it learns to color grass and trees green and other outdoor cues. 
+###### Top row grayscale image input, middle row is generated image by GAN, last row is actual image
 
 ### Epoch 1
 ![plot_000001](https://user-images.githubusercontent.com/15833382/102006410-eb52a880-3d46-11eb-8d81-f96685cb90e8.png)
