@@ -36,6 +36,10 @@ We can observe from figure that from epoch 6, the GAN has learned to identify th
 ![plot_000046](https://user-images.githubusercontent.com/15833382/102006495-7c298400-3d47-11eb-8732-e6165098609b.png)
 
 Figure shows an interesting case we observed while testing the GAN model, even though the input grayscale image or actual image showed a dark silhouette of a house, the model filled in the details it learned from trained by putting a window and door and lightening the image. Even the ground and sky are colored correctly. 
+#### Generated Image
+![image](https://user-images.githubusercontent.com/15833382/102009838-33ca9000-3d60-11eb-9ab0-dbbe53eddd20.png)
+#### Actual Image
+![image](https://user-images.githubusercontent.com/15833382/102009840-375e1700-3d60-11eb-86f8-c42bd998de2a.png)
 
 
 
