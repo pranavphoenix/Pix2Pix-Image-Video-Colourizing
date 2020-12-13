@@ -43,7 +43,7 @@ Figure shows an interesting case we observed while testing the GAN model, even t
 
 ### Video Colourizing
 ![Alt Text](https://j.gifs.com/OMAvmE.gif)
-The network is trying to colour the field with yellow, and sometimes with green.
+###### The network is trying to colour the field with yellow, and sometimes with green.
 
 
 
