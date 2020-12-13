@@ -41,6 +41,12 @@ Figure shows an interesting case we observed while testing the GAN model, even t
 #### Actual Image
 ![image](https://user-images.githubusercontent.com/15833382/102009840-375e1700-3d60-11eb-86f8-c42bd998de2a.png)
 
+### Video Colourizing
+![Alt Text](https://j.gifs.com/OMAvmE.gif)
+The network is trying to colour the field with yellow, and sometimes with green.
+
+
+
 
 
 
