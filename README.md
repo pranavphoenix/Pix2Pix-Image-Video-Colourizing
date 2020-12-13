@@ -6,9 +6,9 @@ The Places365 dataset contains 1.8 million train images from 365 scene categorie
 
 ## Video 
 We took 2 videos. One was a 5 min clip from ‘The Great Dictator’, a black and white Charlie Chaplin movie and another was a 1 min colored video clip from YouTube which showed different sceneries.
-•	The frames of the videos were extracted as jpg at a rate of 20 frames per second using VLC player
-•	The extracted images were converted to NumPy arrays and fed to the trained generator to colorize. The color video frames were gray-scaled before being fed to the generator.
-•	The output of the generator was combined again using matplotlib to obtain a video and it was analyzed.
+- The frames of the videos were extracted as jpg at a rate of 20 frames per second using VLC player
+- The extracted images were converted to NumPy arrays and fed to the trained generator to colorize. The color video frames were gray-scaled before being fed to the generator.
+- The output of the generator was combined again using matplotlib to obtain a video and it was analyzed.
 
 # Training 
 We can observe from figure that from epoch 6, the GAN has learned to identify the sky and color it blue. As the training progresses, it learns to color grass and trees green and other outdoor cues.
