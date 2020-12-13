@@ -16,14 +16,23 @@ We can observe from figure that from epoch 6, the GAN has learned to identify th
 ### Epoch 1
 ![plot_000001](https://user-images.githubusercontent.com/15833382/102006410-eb52a880-3d46-11eb-8d81-f96685cb90e8.png)
 ### Epoch 6
+![plot_000006 (1)](https://user-images.githubusercontent.com/15833382/102006469-5603e400-3d47-11eb-9036-2fc28e08acba.png)
+### Epoch 11
+![plot_000011 (1)](https://user-images.githubusercontent.com/15833382/102006472-5b612e80-3d47-11eb-832f-ae2a940d1f67.png)
 ### Epoch 16
+![plot_000016 (1)](https://user-images.githubusercontent.com/15833382/102006480-61efa600-3d47-11eb-8676-be403c2cef7f.png)
 ### Epoch 21
+![plot_000021](https://user-images.githubusercontent.com/15833382/102006484-66b45a00-3d47-11eb-91ee-dae19fffa607.png)
 ### Epoch 26
+![plot_000026](https://user-images.githubusercontent.com/15833382/102006486-6a47e100-3d47-11eb-80a1-54bd3f8808ba.png)
 ### Epoch 31
+![plot_000031](https://user-images.githubusercontent.com/15833382/102006488-6f0c9500-3d47-11eb-9e09-921a77890e60.png)
 ### Epoch 36
+![plot_000036](https://user-images.githubusercontent.com/15833382/102006489-72a01c00-3d47-11eb-9792-4efee41a5dbf.png)
 ### Epoch 41
+![plot_000041](https://user-images.githubusercontent.com/15833382/102006491-7895fd00-3d47-11eb-96a9-5c44552654a3.png)
 ### Epoch 46
-
+![plot_000046](https://user-images.githubusercontent.com/15833382/102006495-7c298400-3d47-11eb-8732-e6165098609b.png)
 
 
 
