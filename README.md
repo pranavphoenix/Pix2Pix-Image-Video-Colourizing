@@ -13,5 +13,9 @@ We took 2 videos. One was a 5 min clip from ‘The Great Dictator’, a black an
 # Training 
 We can observe from figure that from epoch 6, the GAN has learned to identify the sky and color it blue. As the training progresses, it learns to color grass and trees green and other outdoor cues.
 
+### Epoch 1
+![plot_000001](https://user-images.githubusercontent.com/15833382/102006410-eb52a880-3d46-11eb-8d81-f96685cb90e8.png)
+
+
 
 
